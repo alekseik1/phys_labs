@@ -108,3 +108,6 @@ venv.bak/
 
 # Any .numbers files
 *.numbers
+
+# Any DS_Store
+.DS_Store
